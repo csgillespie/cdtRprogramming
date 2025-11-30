@@ -1,0 +1,7 @@
+[lint]
+select = []
+ignore = []
+exclude = []
+default-exclude = true
+assignment = "="
+
